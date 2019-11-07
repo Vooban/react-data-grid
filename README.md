@@ -1,3 +1,6 @@
+# Default branch
+`canary-extended`
+
 # React Data Grid [![npm-badge]][npm-url] [![azure-badge]][azure-url] [![coverage-badge]][azure-url]
 
 [npm-badge]: https://img.shields.io/npm/v/react-data-grid/next.svg
