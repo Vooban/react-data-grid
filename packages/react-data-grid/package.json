@@ -40,5 +40,6 @@
     "@types/react-is": "^16.7",
     "react": "^16.8",
     "react-dom": "^16.8"
-  }
+  },
+  "gitHead": "b12bdea934ae55945bb15226cea842f4db9e1951"
 }
