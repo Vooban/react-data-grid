@@ -1,7 +1,7 @@
 import React from 'react';
 import { mount } from 'enzyme';
 
-import Grid from 'react-data-grid';
+import Grid from '@vooban/react-data-grid';
 
 describe('Grid', () => {
   const setup = extraProps => {
