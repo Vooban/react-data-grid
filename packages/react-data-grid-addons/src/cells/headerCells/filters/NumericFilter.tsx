@@ -1,5 +1,5 @@
 import React from 'react';
-import { Column } from 'react-data-grid';
+import { Column } from '@vooban/react-data-grid';
 
 enum RuleType {
   Number = 1,
